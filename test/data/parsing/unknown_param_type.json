@@ -1,0 +1,8 @@
+[
+  {
+    "name": "fn_sum_list",
+    "description": "Sum a list of numbers.",
+    "parameters": { "values": { "type": "array" } },
+    "returns": { "type": "number" }
+  }
+]

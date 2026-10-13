@@ -1,0 +1,8 @@
+[
+  {
+    "name": "fn_get_user",
+    "description": "Get a user by id.",
+    "parameters": { "id": { "type": "integer" } },
+    "returns": { "type": "object" }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "name": "fn_greet",
+    "parameters": { "name": { "type": "string" } },
+    "returns": { "type": "string" }
+  }
+]

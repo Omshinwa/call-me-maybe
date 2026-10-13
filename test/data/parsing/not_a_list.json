@@ -1,0 +1,6 @@
+{
+  "name": "fn_greet",
+  "description": "Greet a person by name.",
+  "parameters": { "name": { "type": "string" } },
+  "returns": { "type": "string" }
+}

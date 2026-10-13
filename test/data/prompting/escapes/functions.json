@@ -1,0 +1,8 @@
+[
+  {
+    "name": "fn_print",
+    "description": "Print a text to the terminal.",
+    "parameters": { "text": { "type": "string" } },
+    "returns": { "type": "string" }
+  }
+]

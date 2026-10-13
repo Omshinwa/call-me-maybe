@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "What is 7 plus 5?",
+    "name": "fn_add",
+    "parameters": { "a": 7.0, "b": 5.0 }
+  },
+  {
+    "prompt": "Add Bob to my contacts with the number 0698765432",
+    "name": "fn_add_contact",
+    "parameters": { "name": "Bob", "phone": "0698765432" }
+  },
+  {
+    "prompt": "Add 31 and 11",
+    "name": "fn_add",
+    "parameters": { "a": 31.0, "b": 11.0 }
+  }
+]

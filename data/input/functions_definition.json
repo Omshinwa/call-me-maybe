@@ -1,0 +1,32 @@
+[
+  {
+    "name": "fn_add_numbers",
+    "description": "Add two numbers together and return their sum.",
+    "parameters": {
+      "a": {
+        "type": "number"
+      },
+      "b": {
+        "type": "number"
+      }
+    },
+    "returns": {
+      "type": "number"
+    }
+  },
+  {
+    "name": "fn_even_or_odd",
+    "description": "flag=true asks 'is it odd?', flag=false asks 'is it even?'",
+    "parameters": {
+      "a": {
+        "type": "integer"
+      },
+      "flag": {
+        "type": "boolean"
+      }
+    },
+    "returns": {
+      "type": "boolean"
+    }
+  }
+]

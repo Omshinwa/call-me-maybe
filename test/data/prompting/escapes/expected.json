@@ -1,0 +1,7 @@
+[
+  {
+    "prompt": "Print 'C:\\Users\\me'",
+    "name": "fn_print",
+    "parameters": { "text": "C:/Users/me" }
+  }
+]

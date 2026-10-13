@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "Print 'café crème brûlée'",
+    "name": "fn_print",
+    "parameters": { "text": "café crème brûlée" }
+  },
+  {
+    "prompt": "Print '你好世界'",
+    "name": "fn_print",
+    "parameters": { "text": "你好世界" }
+  },
+  {
+    "prompt": "Print '🎉 party time 😀'",
+    "name": "fn_print",
+    "parameters": { "text": "🎉 party time 😀" }
+  },
+  {
+    "prompt": "Print 'to the moon 🚀'",
+    "name": "fn_print",
+    "parameters": { "text": "to the moon 🚀" }
+  }
+]

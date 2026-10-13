@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fn_add_numbers",
+    "description": "Add two numbers together and return their sum.",
+    "parameters": { "a": { "type": "number" }, "b": { "type": "number" } },
+    "returns": { "type": "number" }
+  },
+  {
+    "name": "fn_absolute_value",
+    "description": "Return the absolute value of an integer.",
+    "parameters": { "n": { "type": "integer" } },
+    "returns": { "type": "integer" }
+  }
+]

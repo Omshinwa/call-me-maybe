@@ -1,0 +1,17 @@
+[
+  {
+    "prompt": "What is the sum of -5 and 3?",
+    "name": "fn_add_numbers",
+    "parameters": { "a": -5.0, "b": 3.0 }
+  },
+  {
+    "prompt": "Add -12.5 and -7.5",
+    "name": "fn_add_numbers",
+    "parameters": { "a": -12.5, "b": -7.5 }
+  },
+  {
+    "prompt": "What is the absolute value of -42?",
+    "name": "fn_absolute_value",
+    "parameters": { "n": -42 }
+  }
+]

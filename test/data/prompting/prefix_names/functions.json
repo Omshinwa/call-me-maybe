@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fn_add",
+    "description": "Add two numbers together and return their sum.",
+    "parameters": { "a": { "type": "number" }, "b": { "type": "number" } },
+    "returns": { "type": "number" }
+  },
+  {
+    "name": "fn_add_contact",
+    "description": "Save a new contact in the phone book.",
+    "parameters": { "name": { "type": "string" }, "phone": { "type": "string" } },
+    "returns": { "type": "boolean" }
+  }
+]
